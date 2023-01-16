@@ -2,6 +2,8 @@
 
 A research project grown out of curiosity. Cracks 6 bytes of pin code via High Speed CAN-bus in under 20 minutes.
 
+[Intructions + Wiki](https://github.com/vtl/volvo-cem-cracker/wiki)
+
 Supported platforms:
 
 * P1:
